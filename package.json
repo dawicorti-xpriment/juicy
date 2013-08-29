@@ -1,0 +1,25 @@
+{
+  "name": "juicy",
+  "version": "0.0.0",
+  "description": "Modular Blog Engine",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dawicorti/juicy.git"
+  },
+  "keywords": [
+    "blog",
+    "engine",
+    "modular"
+  ],
+  "dependencies": {
+    "optimist": "0.6.0",
+    "node-uuid": "1.4.1",
+    "path": "0.4.9"
+  },
+  "author": "David Corticchiato",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dawicorti/juicy/issues"
+  }
+}
