@@ -16,7 +16,7 @@
     "optimist": "0.6.0",
     "node-uuid": "1.4.1",
     "path": "0.4.9",
-    "async": "0.2.9"
+    "ncp": "0.4.2"
   },
   "author": "David Corticchiato",
   "license": "BSD",
