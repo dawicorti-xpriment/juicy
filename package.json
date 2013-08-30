@@ -15,7 +15,8 @@
   "dependencies": {
     "optimist": "0.6.0",
     "node-uuid": "1.4.1",
-    "path": "0.4.9"
+    "path": "0.4.9",
+    "async": "0.2.9"
   },
   "author": "David Corticchiato",
   "license": "BSD",
